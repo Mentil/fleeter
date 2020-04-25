@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: unb-office_bold
+font link: http://www.marca.unb.br/fontesunb.php
+font author: Universidade de Brasilia
+font author site: http://www.marca.unb.br/introducao.php
+
+
+icon designer: Simon Child
+icon designer link: /Simon Child
+        
+{"bg":"#41A2FF","icon":"#054EA4","font":"#ffffff","slogan":"#ffffff"}
+      
